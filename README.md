@@ -5,6 +5,9 @@
   
   -  Clone the fork repo
      - `git clone https://github.com/<Your-Username>/1-basic-contribute`
+
+  - Create new branch
+    - `git checkout -b <Your-Username>`
      
   -  Add your username on `example.js`
   
@@ -15,6 +18,6 @@
      - `git commit -m "docs(example.js): add <Your-Username>"`
   
   -  Push changes
-    - `git push -u origin main`
+     - `git push -u origin main`
  
   -  Create pull requests
