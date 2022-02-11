@@ -18,6 +18,6 @@
      - `git commit -m "docs(example.js): add <Your-Username>"`
   
   -  Push changes
-     - `git push -u origin main`
+     - `git push -u origin <Your-Username>`
  
   -  Create pull requests
