@@ -18,4 +18,3 @@
     - `git push -u origin main`
  
   -  Create pull requests
-    - [Try to Mention the related issue for your PR]
